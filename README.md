@@ -1,0 +1,2 @@
+# niigata
+safelink.js
